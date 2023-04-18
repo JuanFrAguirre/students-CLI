@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Juan",
+        "lastName": "Aguirre",
+        "grade1": 9,
+        "grade2": 8,
+        "grade3": 7,
+        "average": "8.00"
+    },
+    {
+        "firstName": "Virginia",
+        "lastName": "Frias",
+        "grade1": 10,
+        "grade2": 10,
+        "grade3": 9,
+        "average": "9.67"
+    },
+    {
+        "firstName": "Vicky",
+        "lastName": "Frias",
+        "grade1": 4,
+        "grade2": 5,
+        "grade3": 5,
+        "average": "4.67"
+    },
+    {
+        "firstName": "Cecilia",
+        "lastName": "Arrue",
+        "grade1": 3,
+        "grade2": 4,
+        "grade3": 5,
+        "average": "4.00"
+    },
+    {
+        "firstName": "Juan",
+        "lastName": "Sotelo",
+        "grade1": 3,
+        "grade2": 3,
+        "grade3": 3,
+        "average": "3.00"
+    }
+]
